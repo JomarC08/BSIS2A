@@ -1,9 +1,4 @@
-EDIT J: Hello Owner
-
-
+EDIT J: Hello Owne
 EDIT Jay: Hello Collaborator
-<<<<<<< HEAD
-dasdasdasd
-=======
 EDIT JOMAR: ABCDDEF
->>>>>>> 47d5ff4c332973add38d3c8fdfbd3e36f39ba0aa
+
