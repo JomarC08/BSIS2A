@@ -1,11 +1,3 @@
-EDIT J: Hello Owne
-EDIT Jay: Hello Collaborator
-EDIT JOMAR: ABCDDEF
-EDIT JOMAR: PRACTICE GUI
-
-This line is added by the collaborator
-Line added by the OWNER
-
-Line added by the collaborator
-
+C: Hello World!
+J: Hi eberibadiiii
 
